@@ -1,0 +1,5 @@
+%z = ones(3,3);
+n = 0;
+for k = 1 : length(z)^2
+   di
+end
